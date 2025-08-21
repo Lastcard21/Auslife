@@ -30,7 +30,7 @@ const Home = () => {
             >
               {/* Overlay */}
               <div className="absolute inset-0 bg-black/70 hover:bg-black/40 transition duration-300 flex items-center justify-center">
-                <h3 className="text-white text-2xl font-bold text-center">
+                <h3 className="text-white text-lg font-bold text-center">
                   {service.label}
                 </h3>
               </div>
